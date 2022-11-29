@@ -1,0 +1,137 @@
+[
+   {
+      "id": 1,
+      "idCategoria": 1,
+      "titulo": "Grand Theft Auto V",
+      "categoria": "Accion",
+      "sistemas": "Windows",
+      "img": "https://firebasestorage.googleapis.com/v0/b/op-store-34755.appspot.com/o/img%2Fgta-v_front.jpg?alt=media&token=c0422be3-9dde-4748-99d4-683162910dad",
+      "precio": 2400
+   },
+   {
+      "id": 2,
+      "idCategoria": 2,
+      "titulo": "Counter-Strike: Global Offensive",
+      "categoria": "Disparos",
+      "sistemas": ["Windows", "MacOS"],
+      "img": "https://firebasestorage.googleapis.com/v0/b/op-store-34755.appspot.com/o/img%2Fcs-go_front.jpg?alt=media&token=18cd0212-d8b7-4a81-bb6c-cb2b0b9afcff",
+      "precio": 5000
+   },
+   {
+      "id": 3,
+      "idCategoria": 4,
+      "titulo": "Cyberpunk 2077",
+      "categoria": "Rol",
+      "sistemas": "Windows",
+      "img": "https://firebasestorage.googleapis.com/v0/b/op-store-34755.appspot.com/o/img%2Fcyberpunk-2077_front.jpg?alt=media&token=0064be56-4998-46e3-99c5-aba46aa12470",
+      "precio": 2200
+   },
+   {
+      "id": 4,
+      "idCategoria": 3,
+      "titulo": "FIFA 23",
+      "categoria": "Deporte",
+      "sistemas": "Windows",
+      "img": "https://firebasestorage.googleapis.com/v0/b/op-store-34755.appspot.com/o/img%2Ffifa-23_front.jpg?alt=media&token=4456dec6-c406-4291-a522-e829e1417e75",
+      "precio": 9000
+   },
+   {
+      "id": 5,
+      "idCategoria": 2,
+      "titulo": "Call of Duty: Modern Warfare II",
+      "categoria": "Disparos",
+      "sistemas": "Windows",
+      "img": "https://firebasestorage.googleapis.com/v0/b/op-store-34755.appspot.com/o/img%2Fmwii_front.jpg?alt=media&token=b0a86c3f-f61e-4053-91fe-021b484501b0",
+      "precio": 7000
+   },
+   {
+      "id": 6,
+      "idCategoria": 5,
+      "titulo": "Mortal Kombat 11",
+      "categoria": "Pelea",
+      "sistemas": "Windows",
+      "img": "https://firebasestorage.googleapis.com/v0/b/op-store-34755.appspot.com/o/img%2Fmk11_front.jpg?alt=media&token=2fbb500d-ed47-40d5-9c31-be823d4e0463",
+      "precio": 1100
+   },
+   {
+      "id": 7,
+      "idCategoria": 2,
+      "titulo": "Left 4 Dead 2",
+      "categoria": "Disparos",
+      "sistemas": ["Windows", "MacOS"],
+      "img": "https://firebasestorage.googleapis.com/v0/b/op-store-34755.appspot.com/o/img%2Fl4d2_front.jpg?alt=media&token=94e14ce1-4b8e-43d1-91f7-96d1e4ab6679",
+      "precio": 130
+   },
+   {
+      "id": 8,
+      "idCategoria": 2,
+      "titulo": "Tom Clancy's Rainbow Six Siege",
+      "categoria": "Disparos",
+      "sistemas": "Windows",
+      "img": "https://firebasestorage.googleapis.com/v0/b/op-store-34755.appspot.com/o/img%2Fr6-siege_front.jpg?alt=media&token=0ecaa86e-519e-4572-94aa-c637d4471dc6",
+      "precio": 6500
+   },
+   {
+      "id": 9,
+      "idCategoria": 4,
+      "titulo": "Elden Ring",
+      "categoria": "Rol",
+      "sistemas": "Windows",
+      "img": "https://firebasestorage.googleapis.com/v0/b/op-store-34755.appspot.com/o/img%2Felden-ring_front.jpg?alt=media&token=781cacdd-7c81-4606-abc2-6533f6b7fc8e",
+      "precio": 6500
+   },
+   {
+      "id": 10,
+      "idCategoria": 1,
+      "titulo": "Marvel's Spider-Man",
+      "categoria": "Accion",
+      "sistemas": "Windows",
+      "img": "https://firebasestorage.googleapis.com/v0/b/op-store-34755.appspot.com/o/img%2Fmarvels-spider-man_front.jpg?alt=media&token=26dc00cf-53bf-486c-94d8-d78339393960",
+      "precio": 5000
+   },
+   {
+      "id": 11,
+      "idCategoria": 1,
+      "titulo": "Blasphemous",
+      "categoria": "Accion",
+      "sistemas": ["Windows", "MacOS"],
+      "img": "https://firebasestorage.googleapis.com/v0/b/op-store-34755.appspot.com/o/img%2Fblasphemous_front.jpg?alt=media&token=c48ffcc1-ff7e-42eb-a71d-fc2e9660138f",
+      "precio": 550
+   },
+   {
+      "id": 12,
+      "idCategoria": 5,
+      "titulo": "Dragon Ball FighterZ",
+      "categoria": "Pelea",
+      "sistemas": "Windows",
+      "img": "https://firebasestorage.googleapis.com/v0/b/op-store-34755.appspot.com/o/img%2Fdb-fighterz_front.jpg?alt=media&token=eb2c48d7-57dc-4c0d-9dd5-598c8c3ff2fd",
+      "precio": 2000
+   },
+   {
+      "id": 13,
+      "idCategoria": 4,
+      "titulo": "Elder Scrolls V: Skyrim",
+      "categoria": "Rol",
+      "sistemas": "Windows",
+      "img": "https://firebasestorage.googleapis.com/v0/b/op-store-34755.appspot.com/o/img%2Fskyrim_front.jpg?alt=media&token=bf9df814-c725-4be9-8479-3faddf5f128a",
+      "precio": 1500
+   },
+   {
+      "id": 14,
+      "idCategoria": 5,
+      "titulo": "Gang Beasts",
+      "categoria": "Pelea",
+      "sistemas": ["Windows", "MacOS"],
+      "img": "https://firebasestorage.googleapis.com/v0/b/op-store-34755.appspot.com/o/img%2Fgang-beasts_front.jpg?alt=media&token=7864aaa2-65f5-48cb-8155-edf35166a92c",
+      "precio": 225
+   },
+   {
+      "id": 15,
+      "idCategoria": 3,
+      "titulo": "Forza Horizon 4",
+      "categoria": "Deporte",
+      "sistemas": "Windows",
+      "img": "https://firebasestorage.googleapis.com/v0/b/op-store-34755.appspot.com/o/img%2Fforza-horizon-4_front.jpg?alt=media&token=9db76873-59eb-4b68-8d14-1657ff67a5a7",
+      "precio": 3600
+   }
+]
