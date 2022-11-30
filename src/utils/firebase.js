@@ -15,6 +15,7 @@ const firebaseConfig = {
 const app = initializeApp(firebaseConfig);
 const db = getFirestore();
 
+
 const loadDB = async() => {
    const promise = await fetch('./data/juegos.json')
    const juegos = await promise.json()
@@ -57,6 +58,10 @@ const createOrdenCompra = async (nombre, apellido, telefono, email, precioTotal)
 const getOrdenCompra = async (id) => {
    const ordenCompra = await getDoc(doc(db, "ordenCompra", id))
    return ordenCompra
- }
+}
+
+export const getFireStoreApp = () => {
+   return app
+}
 
 export {loadDB, getJuegos, getJuego, createOrdenCompra, getOrdenCompra}
