@@ -2,7 +2,7 @@
 
 Este proyecto esta creado para el curso de React dictado en [Coderhouse](https://www.coderhouse.com).
 
-OP es un Ecommerce de juegos para PC en formato digital, cuenta con 15 titulos en su base de datos, hay disponibles para sistemas operativos Windows y macOS
+SUMMIT es un Ecommerce de juegos para PC en formato digital, cuenta con 15 titulos en su base de datos, hay disponibles para sistemas operativos Windows y macOS
 
 ## Dependencias instaladas
 
