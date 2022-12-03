@@ -27,10 +27,10 @@ const ItemDetail = ({item}) => {
                <div className="card-body">
                   <h4 className="card-title">{item[1].titulo}</h4>
                   <p className="card-text">{item[1].categoria}</p>
-                  <p className="card-text">Displonible para: {item[1].sistemas}</p>
+                  <p className="card-text">Disponible para: {item[1].sistemas}</p>
                   <p className="card-text">${item[1].precio}</p>
                   <div className="card-quantity">
-                     <p className="card-text">Copias a comprar</p>
+                     <p className="card-text">Cantidad a comprar</p>
                      <div className="card-quantity__selector">
                         <span onClick={() => modificarCant("-")}>-</span>
                         <span className="quantity">{cantidad}</span>
